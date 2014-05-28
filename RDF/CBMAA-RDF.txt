@@ -1,0 +1,453 @@
+<object/2011.19.4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.19.4/regno> .
+<object/2011.19.4/inscription/1> <http://www.w3.org/2000/01/rdf-schema#label> "Signature of Cage is incised on the lower right front edge of the base, and the signature of Cage's collaborator Calvin Sumsion also incised on the base." .
+<object/2011.19.4/inscription/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.19.4/dimension> .
+<object/2011.19.4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.19.4/legalbody> .
+<object/2011.19.4/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<person-institution/john_cage> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/john_cage/appellation> .
+<object/2011.19.4/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/john_cage> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.19.4/production> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/sculpture> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/screen_prints_on_plexiglas> .
+<bibliography/2011.19.4/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2011.19.4/inscription/2> .
+<object/2011.19.4/inscription/2> <http://www.w3.org/2000/01/rdf-schema#label> "Chopstampoftheprinter, HollanderWorkshop, ontherearedgeofthebase." .
+<thesauri/sculpture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/material/screen_prints_on_plexiglas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.19.4/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<object/2011.19.4/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<bibliography/2011.19.4/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<bibliography/2011.19.4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.19.4> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Two of the eight panels are bronze tinted, six are clear. Printed by Hollander Workshop. Published by Eye Editions, Cincinnati (subsequently Carl Solway Gallery)." .
+<object/2011.19.4/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "each panel: 14 x 20 x 1/8 in. (35.6 x 50.8 x 0.3 cm)\nOther (base): 3/4 x 24 x 14 1/2 in. (1.9 x 61 x 36.8 cm)" .
+<object/2011.19.4/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.19.4" .
+<person-institution/john_cage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<bibliography/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.19.4/publication> .
+<bibliography/2011.19.4/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1969" .
+<person-institution/john_cage/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "John Cage" .
+<thesauri/material/screen_prints_on_plexiglas> <http://www.w3.org/2000/01/rdf-schema#label> "Screen prints on Plexiglas" .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2011.19.4/inscription/1> .
+<object/2011.19.4/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.19.4/title> <http://www.w3.org/2000/01/rdf-schema#label> "Not Wanting to Say Anything about Marcel, Plexigram IV" .
+<bibliography/2011.19.4/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.19.4/publication/date> .
+<object/2011.19.4/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/john_cage/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.19.4/inscription/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<object/2011.19.4/acquisition> <http://www.w3.org/2000/01/rdf-schema#label> "Gift of Carl and Elizabeth Solway" .
+<object/2011.19.4/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<thesauri/sculpture> <http://www.w3.org/2000/01/rdf-schema#label> "Sculpture" .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.19.4/title> .
+<object/2011.19.4> <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> <object/2011.19.4/acquisition> .
+
+<object/2011.19.5/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.19.5" .
+<bibliography/2011.19.5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2011.19.5/title> <http://www.w3.org/2000/01/rdf-schema#label> "Not Wanting to Say Anything about Marcel, Lithograph A" .
+<object/2011.19.5/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/color_lithograph_on_black_fabriano_rag_paper> .
+<person-institution/john_cage> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/john_cage/appellation> .
+<object/2011.19.5/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/2011.19.5/inscription/1> <http://www.w3.org/2000/01/rdf-schema#label> "Signed by Cage in the lower right corner, along with the signature of his collaborator Calvin Sumsion" .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.19.5/regno> .
+<bibliography/2011.19.5/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1969" .
+<thesauri/material/color_lithograph_on_black_fabriano_rag_paper> <http://www.w3.org/2000/01/rdf-schema#label> "Color lithograph on black Fabriano rag paper" .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> <object/2011.19.5/acquisition> .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Hand printed on black Fabriano rag paper using 8 aluminum plates and 9 colors, printed at the Hollander Workshop, NYC. Published by Eye Editions, Cincinnati (subsequently Carl Solway Gallery)." .
+<bibliography/2011.19.5/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.19.5/title> .
+<object/2011.19.5/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/john_cage> .
+<object/2011.19.5/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/2011.19.5/inscription/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/print> .
+<thesauri/print> <http://www.w3.org/2000/01/rdf-schema#label> "Print" .
+<object/2011.19.5/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.19.5/acquisition> <http://www.w3.org/2000/01/rdf-schema#label> "Gift of Carl and Elizabeth Solway" .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2011.19.5/inscription/1> .
+<person-institution/john_cage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<bibliography/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.19.5/publication> .
+<object/2011.19.5/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<person-institution/john_cage/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "John Cage" .
+<bibliography/2011.19.5/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.19.5/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "27 1/2 x 40 in. (69.9 x 101.6 cm)" .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.19.5/production> .
+<object/2011.19.5/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/material/color_lithograph_on_black_fabriano_rag_paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.19.5/legalbody> .
+<person-institution/john_cage/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.19.5> .
+<object/2011.19.5/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2011.19.5> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.19.5/dimension> .
+<bibliography/2011.19.5/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.19.5/publication/date> .
+<object/2011.19.5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<bibliography/2011.19.6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<person-institution/john_cage> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/john_cage/appellation> .
+<object/2011.19.6/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/john_cage> .
+<object/2011.19.6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2011.19.6/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.19.6/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<thesauri/print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.19.6/legalbody> .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "A text, written by John Cage, describing his process of composition. Based on the I Ching (Chinese \"BookofChanges\") together with a glossary." .
+<object/2011.19.6/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/print> <http://www.w3.org/2000/01/rdf-schema#label> "Print" .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.19.6/regno> .
+<object/2011.19.6/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.19.6" .
+<object/2011.19.6/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<bibliography/2011.19.6/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "ca. 1969" .
+<bibliography/2011.19.6/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.19.6/publication/date> .
+<bibliography/2011.19.6/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<bibliography/2011.19.6/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/john_cage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.19.6/production> .
+<bibliography/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.19.6/publication> .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.19.6> .
+<object/2011.19.6/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/2011.19.6/acquisition> <http://www.w3.org/2000/01/rdf-schema#label> "Gift of Carl and Elizabeth Solway" .
+<person-institution/john_cage/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "John Cage" .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> <object/2011.19.6/acquisition> .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/print> .
+<object/2011.19.6/title> <http://www.w3.org/2000/01/rdf-schema#label> "Text and glossary related to Not Wanting to Say Anything about Marcel" .
+<person-institution/john_cage/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.19.6> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.19.6/title> .
+<object/2011.19.6/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+
+<person-institution/john_frederick_peto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<bibliography/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.20/publication> .
+<bibliography/2011.20/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.20/regno> .
+<bibliography/2011.20/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/painting> <http://www.w3.org/2000/01/rdf-schema#label> "Painting" .
+<object/2011.20/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.20/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2011.20/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "18 1/2 x 12 1/4 in. (47 x 31.1 cm)\nFramed: 24 1/2 _ 18 1/4 _ 2 1/4 in. (62.2 _ 46.4 _ 5.7 cm)" .
+<thesauri/painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/2011.20/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1904" .
+<object/2011.20/title> <http://www.w3.org/2000/01/rdf-schema#label> "Self Portrait with Rack Picture" .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/oil_on_board> .
+<person-institution/john_frederick_peto/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "John Frederick Peto" .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.20/production> .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.20/legalbody> .
+<object/2011.20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/painting> .
+<object/2011.20/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<bibliography/2011.20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2011.20/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.20" .
+<person-institution/john_frederick_peto> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/john_frederick_peto/appellation> .
+<thesauri/material/oil_on_board> <http://www.w3.org/2000/01/rdf-schema#label> "Oil on board" .
+<person-institution/john_frederick_peto/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.20/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/john_frederick_peto> .
+<thesauri/material/oil_on_board> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/2011.20/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.20/publication/date> .
+<object/2011.20/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/2011.20/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.20/dimension> .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.20> .
+<object/2011.20/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/2011.20> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.20/title> .
+
+<thesauri/material/oil_on_canvas> <http://www.w3.org/2000/01/rdf-schema#label> "Oil on canvas" .
+<object/2011.21/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.21" .
+<bibliography/2011.21/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.21/publication/date> .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.21/legalbody> .
+<object/2011.21/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2011.21/inscription/1> .
+<object/2011.21/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<bibliography/2011.21/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<thesauri/painting> <http://www.w3.org/2000/01/rdf-schema#label> "Painting" .
+<bibliography/2011.21/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1865" .
+<object/2011.21/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "45 x 54 in. (114.3 x 137.2 cm)\nFramed: 47 in. _ 61 in. _ 1 7/8 in. (119.4 _ 154.9 _ 4.8 cm)" .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.21/title> .
+<object/2011.21/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/george_w._pettit> .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.21/production> .
+<thesauri/painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.21/publication> .
+<object/2011.21/inscription/1> <http://www.w3.org/2000/01/rdf-schema#label> "l.l.: GWP 1865\n" .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.21> .
+<object/2011.21/title> <http://www.w3.org/2000/01/rdf-schema#label> "Union Refugees" .
+<object/2011.21/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/oil_on_canvas> .
+<object/2011.21/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/2011.21/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<person-institution/george_w._pettit/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/painting> .
+<bibliography/2011.21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2011.21/inscription/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<bibliography/2011.21/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.21/dimension> .
+<person-institution/george_w._pettit/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "George W. Pettit" .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.21/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/george_w._pettit> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/george_w._pettit/appellation> .
+<object/2011.21> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.21/regno> .
+<person-institution/george_w._pettit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+
+<object/2011.31/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/2011.31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2011.31/title> <http://www.w3.org/2000/01/rdf-schema#label> "Eagle" .
+<object/2011.31/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<person-institution/luis_alfonso_jimenez/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Luis Alfonso Jimenez" .
+<person-institution/luis_alfonso_jimenez> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/luis_alfonso_jimenez/appellation> .
+<thesauri/material/polychrome_fiberglass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/polychrome_fiberglass> .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.31/dimension> .
+<object/2011.31/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "56 x 52 x 29 in. (142.2 x 132.1 x 73.7 cm)" .
+<thesauri/sculpture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.31/production> .
+<bibliography/2011.31/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<bibliography/2011.31/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "2003" .
+<thesauri/material/polychrome_fiberglass> <http://www.w3.org/2000/01/rdf-schema#label> "Polychrome fiberglass" .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.31/legalbody> .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.31/regno> .
+<bibliography/2011.31/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.31/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.31" .
+<object/2011.31/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/sculpture> .
+<object/2011.31/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/luis_alfonso_jimenez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/2011.31/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/luis_alfonso_jimenez> .
+<object/2011.31/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<bibliography/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.31/publication> .
+<bibliography/2011.31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.31/title> .
+<object/2011.31/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<bibliography/2011.31/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.31/publication/date> .
+<object/2011.31> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.31> .
+<thesauri/sculpture> <http://www.w3.org/2000/01/rdf-schema#label> "Sculpture" .
+<person-institution/luis_alfonso_jimenez/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+
+<bibliography/2011.32/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.32/title> .
+<object/2011.32/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/oil_on_canvas> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/2000/01/rdf-schema#label> "Oil on canvas" .
+<object/2011.32/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/painting> .
+<object/2011.32/inscription/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.32/legalbody> .
+<object/2011.32/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.32" .
+<bibliography/2011.32/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.32/publication/date> .
+<object/2011.32/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "20 x 25 in. (50.8 x 63.5 cm)\nFramed: 27 1/4 _ 32 3/8 _ 1 7/8 in. (69.2 _ 82.2 _ 4.8 cm)" .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2011.32/inscription/1> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2011.32/inscription/3> .
+<thesauri/painting> <http://www.w3.org/2000/01/rdf-schema#label> "Painting" .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.32/production> .
+<object/2011.32/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.32/dimension> .
+<object/2011.32/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.32/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.32/regno> .
+<object/2011.32/title> <http://www.w3.org/2000/01/rdf-schema#label> "Capri Girl on a Rooftop" .
+<bibliography/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.32/publication> .
+<bibliography/2011.32/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.32> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.32> .
+<person-institution/john_singer_sargent/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.32/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/2011.32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<person-institution/john_singer_sargent/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "John Singer Sargent" .
+<person-institution/john_singer_sargent> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/john_singer_sargent/appellation> .
+<bibliography/2011.32/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1878" .
+<object/2011.32/inscription/3> <http://www.w3.org/2000/01/rdf-schema#label> "l.r.: capri1878" .
+<object/2011.32/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/john_singer_sargent> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.32/inscription/1> <http://www.w3.org/2000/01/rdf-schema#label> "l.l.: to my friend Fanny / John Singer Sargent" .
+<person-institution/john_singer_sargent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/2011.32/inscription/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<bibliography/2011.32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+
+<object/2011.33/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.33/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<bibliography/2011.33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2011.33/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/michael_ray_charles> .
+<bibliography/2011.33/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.33/regno> .
+<thesauri/painting> <http://www.w3.org/2000/01/rdf-schema#label> "Painting" .
+<person-institution/michael_ray_charles/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.33/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<bibliography/2011.33/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1995" .
+<object/2011.33/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.33/title> .
+<thesauri/painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/2011.33/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.33/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.33/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "60 1/4 x 36 in. (153 x 91.4 cm)" .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> <object/2011.33/acquisition> .
+<object/2011.33/title> <http://www.w3.org/2000/01/rdf-schema#label> "Liberty Bros. Permanent Daily Circus - Army of Clowns" .
+<person-institution/michael_ray_charles/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Ray Charles" .
+<bibliography/2011.33/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.33/publication/date> .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/acrylic_latex_oil_wash_and_stain__and_copper_penny_on_paper> .
+<person-institution/michael_ray_charles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<bibliography/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.33/publication> .
+<object/2011.33/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/2011.33/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.33" .
+<object/2011.33/acquisition> <http://www.w3.org/2000/01/rdf-schema#label> "Gift from the Moody Gallery, Houston, Texas, in honor of Don Bacigalupi" .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.33/production> .
+<thesauri/material/acrylic_latex_oil_wash_and_stain__and_copper_penny_on_paper> <http://www.w3.org/2000/01/rdf-schema#label> "Acrylic latex, oil wash and stain, and copper penny on paper" .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.33/dimension> .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.33/legalbody> .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.33> .
+<object/2011.33> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/painting> .
+<thesauri/material/acrylic_latex_oil_wash_and_stain__and_copper_penny_on_paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<person-institution/michael_ray_charles> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/michael_ray_charles/appellation> .
+<object/2011.33/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2011.33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<bibliography/2011.34/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/2000/01/rdf-schema#label> "Oil on canvas" .
+<person-institution/will_barnet/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<object/2011.34/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/will_barnet> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/will_barnet/appellation> .
+<object/2011.34/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.34" .
+<person-institution/will_barnet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<bibliography/2011.34/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<bibliography/2011.34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/painting> <http://www.w3.org/2000/01/rdf-schema#label> "Painting" .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/oil_on_canvas> .
+<object/2011.34/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/2011.34/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2011.34/acquisition> <http://www.w3.org/2000/01/rdf-schema#label> "Gift of Will and Elena Barnet and Alexandre Gallery, New York" .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2011.34/inscription/1> .
+<thesauri/painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/2011.34/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.34/publication/date> .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P24i_changed_ownership_through> <object/2011.34/acquisition> .
+<object/2011.34/inscription/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<object/2011.34/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "26 x 28 in. (66 x 71.1 cm)" .
+<object/2011.34/inscription/1> <http://www.w3.org/2000/01/rdf-schema#label> "l.r.: Will Barnet 2001" .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.34/legalbody> .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.34> .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.34/regno> .
+<person-institution/will_barnet/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Will Barnet" .
+<object/2011.34/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/will_barnet> .
+<object/2011.34/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.34/title> <http://www.w3.org/2000/01/rdf-schema#label> "The Closed Window" .
+<bibliography/2011.34/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "2001" .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.34/dimension> .
+<thesauri/material/oil_on_canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.34/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.34/production> .
+<object/2011.34/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<bibliography/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.34/publication> .
+<object/2011.34/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.34/title> .
+<object/2011.34> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/painting> .
+
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2011.35/legalbody> .
+<person-institution/mary_frank/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Mary Frank" .
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2011.35/title> .
+<thesauri/material/walnut> <http://www.w3.org/2000/01/rdf-schema#label> "Walnut" .
+<object/2011.35/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/mary_frank> .
+<bibliography/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2011.35/publication> .
+<person-institution/mary_frank/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<bibliography/2011.35/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1964-1965" .
+<thesauri/material/walnut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/2011.35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2011.35/regno> .
+<thesauri/sculpture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2011.35/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "19 x 45 x 13 1/2 in. (48.3 x 114.3 x 34.3 cm)" .
+<person-institution/mary_frank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/2011.35/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/sculpture> .
+<object/2011.35/title> <http://www.w3.org/2000/01/rdf-schema#label> "River" .
+<object/2011.35/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2011.35/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<bibliography/2011.35/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2011.35/publication/date> .
+<object/2011.35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2011.35/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2011.35" .
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/walnut> .
+<bibliography/2011.35/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/2011.35/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/2011.35/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2011.35/dimension> .
+<person-institution/mary_frank> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/mary_frank/appellation> .
+<object/2011.35/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2011.35> .
+<thesauri/sculpture> <http://www.w3.org/2000/01/rdf-schema#label> "Sculpture" .
+<bibliography/2011.35/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2011.35> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2011.35/production> .
+
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2012.228/production> .
+<object/2012.228/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<bibliography/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2012.228/publication> .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2012.228/dimension> .
+<object/2012.228/title> <http://www.w3.org/2000/01/rdf-schema#label> "[Workmen Lowering Pipe Section Onto a Truck]" .
+<bibliography/2012.228/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2012.228/publication/date> .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2012.228/legalbody> .
+<bibliography/2012.228/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1941" .
+<person-institution/rockwell_kent/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<bibliography/2012.228/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2012.228/inscription/1> .
+<thesauri/material/lithograph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2012.228> .
+<object/2012.228/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<person-institution/rockwell_kent/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Rockwell Kent" .
+<bibliography/2012.228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<thesauri/print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/burne_jones_128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/burne_jones_128> <http://www.w3.org/2000/01/rdf-schema#label> "Burne Jones 128" .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/lithograph> .
+<object/2012.228/inscription/1> <http://www.w3.org/2000/01/rdf-schema#label> "Signed in pencil" .
+<object/2012.228/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/print> <http://www.w3.org/2000/01/rdf-schema#label> "Print" .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/burne_jones_128> .
+<object/2012.228/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Other (image): 12 7/16 _ 8 5/16 in. (31.6 _ 21.1 cm)\nFramed: 19 3/4 _ 16 5/8 _ 1 1/8 in. (50.2 _ 42.2 _ 2.9 cm)" .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2012.228/regno> .
+<thesauri/material/lithograph> <http://www.w3.org/2000/01/rdf-schema#label> "Lithograph" .
+<object/2012.228/inscription/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+<object/2012.228/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<object/2012.228/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/rockwell_kent> .
+<object/2012.228/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2012.228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/print> .
+<person-institution/rockwell_kent> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/rockwell_kent/appellation> .
+<object/2012.228/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2012.228" .
+<object/2012.228/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<person-institution/rockwell_kent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<bibliography/2012.228/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2012.228> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2012.228/title> .
+
+<object/2012.229/legalbody> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Bridges Museum of American Art" .
+<thesauri/burne_jones129> <http://www.w3.org/2000/01/rdf-schema#label> "Burne Jones129" .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/2012.229/title> .
+<bibliography/2012.229/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bibliography/2012.229/publication/date> .
+<object/2012.229/regno> <http://www.w3.org/2000/01/rdf-schema#label> "2012.229" .
+<object/2012.229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/2012.229/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P70i_is_documented_in> <bibliography/2012.229> .
+<person-institution/rockwell_kent/appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E41_Appellation> .
+<bibliography/2012.229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E31_Document> .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P50_has_current_keeper> <object/2012.229/legalbody> .
+<bibliography/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P94i_was_created_by> <bibliography/2012.229/publication> .
+<thesauri/material/lithograph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<object/2012.229/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<object/2012.229/inscription/1> <http://www.w3.org/2000/01/rdf-schema#label> "Signed in pencil" .
+<bibliography/2012.229/publication/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> .
+<person-institution/rockwell_kent/appellation> <http://www.w3.org/2000/01/rdf-schema#label> "Rockwell Kent" .
+<object/2012.229/title> <http://www.w3.org/2000/01/rdf-schema#label> "[Workmen Lowering Pipe Section Onto a Ditch]" .
+<object/2012.229/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <person-institution/rockwell_kent> .
+<thesauri/print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<bibliography/2012.229/publication/date> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1941" .
+<thesauri/burne_jones129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<thesauri/print> <http://www.w3.org/2000/01/rdf-schema#label> "Print" .
+<bibliography/2012.229/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation> .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <object/2012.229/production> .
+<object/2012.229/regno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/material/lithograph> <http://www.w3.org/2000/01/rdf-schema#label> "Lithograph" .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <object/2012.229/inscription/1> .
+<object/2012.229/dimension> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Other (image): 9 1/16 _ 12 13/16 in. (23 _ 32.5 cm)\nFramed: 16 1/4 _ 20 1/8 _ 1 1/8 in. (41.3 _ 51.1 _ 2.9 cm)" .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/burne_jones129> .
+<object/2012.229/dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/print> .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <object/2012.229/dimension> .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P48_has_preferred_identifier> <object/2012.229/regno> .
+<person-institution/rockwell_kent> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <person-institution/rockwell_kent/appellation> .
+<person-institution/rockwell_kent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<object/2012.229/legalbody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body> .
+<object/2012.229> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <thesauri/material/lithograph> .
+<object/2012.229/inscription/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E34_Inscription> .
+
